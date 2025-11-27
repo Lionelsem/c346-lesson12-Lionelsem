@@ -43,7 +43,7 @@ When the user taps on any skincare item, a short toast message appears to confir
 
 ## 🖼 Screenshots of the App
 
-![App demo](./Dic/L12.gif)
+![App demo](Dic/skincare.gif)
 
 ---
 
